@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="gradientStartPurple">#7229d2</color>
+    <color name="yellow_mav">#ffe55c</color>
+    <color name="cyan_wordtitle_ma">#7df9ff </color>
+    <color name="blueborder_drawable_ma">#5d3fd3</color>
+    <color name="btnUnclicked_ma2">#d7a2de</color>
+    <color name="btnClicked_ma2">#864b9b</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="white">#FFFFFFFF</color>
+
+</resources>
